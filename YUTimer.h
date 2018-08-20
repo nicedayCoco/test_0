@@ -12,7 +12,7 @@
 /**
  初始化加开始
 
- @param timeNum 循环时间
+ @param timeNum 循环时间 123321
  @param block 循环方法
  */
 - (void)startTimerWithSpace:(float)timeNum block:(void(^)(BOOL))block;
