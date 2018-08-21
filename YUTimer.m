@@ -13,7 +13,9 @@
  当定时器 关闭后 只可以 重新开启
  当定时器 暂停后 只可以 恢复
  当定时器 恢复后 只可以 暂停 和 关闭   dev 111
- master 1 1111  2222
+
+ conflict fixed
+
  */
 typedef NS_ENUM(NSInteger,YUTimerStatus) {
     YUTimerStatusIng,       //执行中
