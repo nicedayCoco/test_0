@@ -16,6 +16,7 @@
 
  conflict fixed
  dev 111
+ 修改 bug 1111
  */
 typedef NS_ENUM(NSInteger,YUTimerStatus) {
     YUTimerStatusIng,       //执行中
